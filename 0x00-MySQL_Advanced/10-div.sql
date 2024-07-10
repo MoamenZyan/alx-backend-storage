@@ -1,4 +1,4 @@
--- Create function SafeDiv that divides (and returns) the first by the second number
+-- Create function SafeDiv
 
 DELIMITER //
 

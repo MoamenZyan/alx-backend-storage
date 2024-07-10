@@ -1,4 +1,4 @@
--- Write a SQL script that creates a trigger that resets the attribute valid_email
+-- Write a SQL script
 
 DELIMITER $$ ;
 CREATE TRIGGER resets_valid_email BEFORE UPDATE ON users

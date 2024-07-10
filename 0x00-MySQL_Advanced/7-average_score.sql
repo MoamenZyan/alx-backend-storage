@@ -1,4 +1,4 @@
--- Create stored procedure ComputeAverageScoreForUser
+-- Create stored procedure
 
 DELIMITER $$
 
